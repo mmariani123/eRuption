@@ -1,0 +1,15 @@
+Package: eRuption
+Type: Package
+Date: 2021-09-04
+Title: Make fun and useful volcano plots 
+Version: 0.1.0
+Author: Michael P Mariani PhD
+Maintainer: Michael P Mariani PhD <m.mariani123@sgmail.com>
+Description: Use this package to create visualy appealing and modfiable volcano plots using gene expression data.
+License: GPLv3 license 
+Encoding: UTF-8
+LazyData: true
+imports:
+	data.table,
+	ggplot2,
+	ggrepel

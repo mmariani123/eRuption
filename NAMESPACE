@@ -1,0 +1,4 @@
+export('eRuption')
+import('data.table')
+import('ggplot2')
+import('ggrepel')
